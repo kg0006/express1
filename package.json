@@ -1,0 +1,17 @@
+{
+  "name": "forexpress",
+  "version": "1.0.0",
+  "description": "express lesson",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Gagik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
